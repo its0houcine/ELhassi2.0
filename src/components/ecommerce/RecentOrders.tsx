@@ -67,6 +67,14 @@ const tableData: Product[] = [
     status: "Delivered",
     image: "/images/product/product-05.jpg", // Replace with actual image URL
   },
+  {
+    id:106,
+    name:"houchpipi",
+    category: "meuf a vendre",
+    price:"c de qualite et pas cher bb",
+    status: "en train de bz",
+    image:"/images/product/product-05.jpg",
+  }
 ];
 
 export default function RecentOrders() {
